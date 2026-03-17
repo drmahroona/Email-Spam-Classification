@@ -1,5 +1,6 @@
 ## 📧 Email Spam Classifier
 A powerful email spam classification system powered by deep learning. This application uses a neural network trained on your dataset to accurately distinguish between spam and legitimate (ham) emails.
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ems-classifier.streamlit.app/)
 
 ## ✨ Features
